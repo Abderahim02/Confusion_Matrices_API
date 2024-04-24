@@ -1,0 +1,3679 @@
+{
+    "visualisation_type": "vis4",
+    "nb_classes": 5,
+    "nb_models": 6,
+    "vis_data": {
+        "cm_KNeighborsClassifier5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.746,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.057,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.096,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.065,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.035,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.093,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.803,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.043,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.049,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.012,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.055,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.035,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.868,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.014,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.057,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.103,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.034,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.702,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.105,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.053,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.073,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.139,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.707,
+                "sign": "NONE"
+            }
+        ],
+        "cm_KNeighborsClassifier5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.07899999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.023,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007000000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08300000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.020000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.021999999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019999999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10599999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.021999999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.061999999999999944,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.010000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.032999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016999999999999987,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.029999999999999916,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_KNeighborsClassifier5_cmp_cm_SVC5": [
+            {
+                "value": 0.05800000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.026000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.031,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006999999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03599999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.028999999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.067,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08900000000000008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.009000000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0020000000000000018,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.018000000000000016,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.04300000000000004,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_KNeighborsClassifier5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.052000000000000046,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.024,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.037000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0050000000000000044,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.048,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.09099999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03899999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.028000000000000025,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.031000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.06899999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.010999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.032999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.02800000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07900000000000007,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_KNeighborsClassifier5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.19599999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.125,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.137,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.36200000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.069,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.09699999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.030000000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.17500000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08600000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.26299999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.16000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.01200000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.032999999999999974,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10699999999999998,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_KNeighborsClassifier5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.237,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.11299999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.011999999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.149,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.52,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.203,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.155,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07700000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.18299999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.04100000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.038,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.052,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05299999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.32799999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.28800000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.014000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.00399999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.118,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.16399999999999992,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.07899999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.023,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007000000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08300000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.020000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.021999999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019999999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10599999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.021999999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.061999999999999944,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.010000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.032999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016999999999999987,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.029999999999999916,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.667,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.08,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.09,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.08,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.084,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.1,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.72,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.071,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.047,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.075,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.043,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.762,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.057,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.071,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.081,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.051,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.64,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.156,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.04,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.156,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.677,
+                "sign": "NONE"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_SVC5": [
+            {
+                "value": 0.137,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.024999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008000000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05500000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013000000000000012,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.119,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.025999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.014999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.022999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.15100000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.067,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.034999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07299999999999995,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.131,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.031,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05500000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.17400000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.040999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.014999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.041,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.022999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.17799999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.061,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.020999999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.041,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10899999999999999,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.11699999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.102,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.02500000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.04100000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.13,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.27899999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.075,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.023999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.032,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.06900000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.020000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03400000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.201,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10900000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.023999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.015999999999999986,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07700000000000007,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_DecisionTreeClassifier5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.15800000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.09799999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.037000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.142,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.437,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.183,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.12000000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07699999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.024000000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.030000000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.266,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.23700000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.029000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.101,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_SVC5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.05800000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.026000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.031,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006999999999999992,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03599999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.028999999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.067,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08900000000000008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.009000000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0020000000000000018,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.018000000000000016,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.04300000000000004,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_SVC5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.137,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.024999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008000000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05500000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013000000000000012,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.119,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.025999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.014999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999992,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.022999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.15100000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.067,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.034999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07299999999999995,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_SVC5_cmp_cm_SVC5": [
+            {
+                "value": 0.804,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.031,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.065,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.072,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.029,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.087,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.839,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.014,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.045,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.014,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.061,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.878,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.02,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.014,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.057,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.036,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.791,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.089,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.044,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.075,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.01,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.121,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.75,
+                "sign": "NONE"
+            }
+        ],
+        "cm_SVC5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0020000000000000018,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.001999999999999988,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.012,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.041999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05500000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.01,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.011999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019999999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.018000000000000016,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.031000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.026999999999999913,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.034999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.011999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03600000000000003,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_SVC5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.254,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.151,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.038000000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.14300000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.39799999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.098,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10099999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.056999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.024000000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.18500000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08600000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08499999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.35200000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.17600000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05099999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.15000000000000002,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_SVC5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.29500000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.079,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.09,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.106,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.018,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.155,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.556,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.23199999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.153,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07100000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.19299999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.038,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.41700000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.30400000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.023000000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0059999999999999915,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.136,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.20699999999999996,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.052000000000000046,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.024,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.037000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0050000000000000044,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.048,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.09099999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03899999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.028000000000000025,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.031000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.06899999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.010999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.032999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.02800000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07900000000000007,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.131,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.031,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05500000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.17400000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.040999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.014999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.041,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.022999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.17799999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.061,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.020999999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.041,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10899999999999999,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_SVC5": [
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0020000000000000018,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.001999999999999988,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.012,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.041999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05500000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.01,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.011999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019999999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.018000000000000016,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.031000000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.026999999999999913,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.034999999999999996,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.011999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.009999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.03600000000000003,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.798,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.033,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.059,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.07,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.041,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.045,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.894,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.004,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.03,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.026,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.041,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.896,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.02,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.016,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.026,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.034,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.028,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.818,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.095,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.042,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.04,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.022,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.111,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.786,
+                "sign": "NONE"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.248,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.149,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05600000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.185,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.453,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.108,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.044000000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.20300000000000007,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.084,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.087,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.37899999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.17,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.04499999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.060999999999999985,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.18600000000000005,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_MLPClassifier5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.28900000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.077,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.096,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.10799999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.197,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.611,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.242,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.14100000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.091,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.21099999999999997,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.069,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.44399999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.29800000000000004,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.025,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.029000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.041,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.14600000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.243,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.19599999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.125,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.137,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.36200000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.069,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.09699999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.030000000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.17500000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.019,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08600000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.26299999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.16000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.01200000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.032999999999999974,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10699999999999998,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.11699999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.102,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.02500000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.04100000000000001,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.13,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.27899999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.075,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.023999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.032,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.06900000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.043000000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.020000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03400000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.201,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10900000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.023999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.015999999999999986,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07700000000000007,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_SVC5": [
+            {
+                "value": 0.254,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.151,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.038000000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.14300000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.39799999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.098,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10099999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.056999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.024000000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.18500000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08600000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033999999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08499999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.35200000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.17600000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.043,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.010000000000000009,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05099999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.15000000000000002,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.248,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.149,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05600000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.001999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.185,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.453,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.108,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.11599999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.044000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.20300000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.027,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.084,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.087,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.37899999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.17,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.04499999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.045000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.060999999999999985,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.18600000000000005,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.55,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.182,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.115,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.11,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.043,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.23,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.441,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.112,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.146,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.071,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.085,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.075,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.693,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.047,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.1,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.091,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.121,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.085,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.439,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.265,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.087,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.085,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.055,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.172,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.6,
+                "sign": "NONE"
+            }
+        ],
+        "cm_LogisticRegression5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.041000000000000036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.072,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.06799999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.011999999999999983,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.15800000000000003,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08299999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.09600000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.025999999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007999999999999896,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.022000000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.07,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.001999999999999988,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.128,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.01999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.08500000000000002,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05699999999999994,
+                "sign": "MINUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_KNeighborsClassifier5": [
+            {
+                "value": 0.237,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.11299999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.011999999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.149,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.52,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.203,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.155,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07700000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.013999999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.18299999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.04100000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.038,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.052,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.05299999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.32799999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.28800000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.014000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.00399999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.118,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.16399999999999992,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_DecisionTreeClassifier5": [
+            {
+                "value": 0.15800000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.03,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.09799999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.037000000000000005,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.142,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.437,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.183,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.007999999999999993,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.12000000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05700000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07699999999999996,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.006000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.024000000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.030000000000000006,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.266,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.23700000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.029000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.101,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_SVC5": [
+            {
+                "value": 0.29500000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.079,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.09,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.106,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.018,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.155,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.556,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.23199999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.018000000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.153,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07100000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.19299999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.051000000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.038,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.015,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.41700000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.30400000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.023000000000000007,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0059999999999999915,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.053,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.136,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.20699999999999996,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_MLPClassifier5": [
+            {
+                "value": 0.28900000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.077,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.096,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.10799999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.005999999999999998,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.197,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.611,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.242,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.033,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.14100000000000001,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.091,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.021,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.21099999999999997,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.049,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.069,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.016999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.059,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.44399999999999995,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.29800000000000004,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.025,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.029000000000000005,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.041,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.14600000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.243,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_LogisticRegression5": [
+            {
+                "value": 0.041000000000000036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.072,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.039999999999999994,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.06799999999999999,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.011999999999999983,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.15800000000000003,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.134,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08299999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.09600000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.047,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.025999999999999995,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.007999999999999896,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.022000000000000006,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.035,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.0040000000000000036,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.07,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.001999999999999988,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.065,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.128,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.01999999999999999,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.016,
+                "sign": "MINUS"
+            },
+            {
+                "value": 0.008,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.08500000000000002,
+                "sign": "PLUS"
+            },
+            {
+                "value": 0.05699999999999994,
+                "sign": "PLUS"
+            }
+        ],
+        "cm_AdaBoostClassifier5_cmp_cm_AdaBoostClassifier5": [
+            {
+                "value": 0.509,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.11,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.155,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.178,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.047,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.242,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.283,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.246,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.167,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.132,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.049,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.685,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.069,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.065,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.095,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.051,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.087,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.374,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.393,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.067,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.069,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.063,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.257,
+                "sign": "NONE"
+            },
+            {
+                "value": 0.543,
+                "sign": "NONE"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+reunion 22/02/2024:
+    demander des datasets ou valider celles qu on a deja
+
+    detailler la vis4 demander la formule de la distance
+
+    les csv ont la meme taille respectant le format
+
+    permettre la visualisation de plusiers vis avec un index d=pour les div en html
+
+    faire les couleurs avec un model de couleur avec interpolation non lineaire
+
+    avoir du js capable de transfomer le json en conentu visuel
+
+    quoi faire si le nombre de models n'est pas un carré parfait (exp 6)
+
+    pour le json de vis2 on peut ajouter u  flag qui contient les noms de tous le smodele scar
+    cette information sera perdue
+
+    le nombre de modeles à utiliser , avec max = 100 et 4 visualisations sur la même page
+
+    soit on fixe le modele de couleur avec python pendant la generation de json ou on lelaisse
+    pour le js????
+
+    ajouter un étape de validation de la structure de données avant la genration des json.
+
+    on doit ajouter un champ interaction dans le json: liste des comportements parfaitexemple 
+    une liste de couples de cases tq si une case se colorie l autre se colorie aussi.
+
+    pour la vis4: on prend la diffrence absolue des deux cases
+
+    pour la vis4 , on doir encore stocker l information brut avant de stocker l infroamtaion sur la difference de cpuleurs
+
+
+
+
+reunion 19/03/2024:
+- structurer le repectoire data, data_non_conforme, data_valide
+- pluseirurs jeux de donnes == plusieurs directories
+- prendre les argumets de csv_genrator en ligne de commande de la fonction __main__
+- garder les noms de modeles 
+- convertir le svg_generator en js avec svg3.js, pour plus de reactivité.
+
+
+
+ ------ 29/03/2024
+- ajouter un input pour permettre a l utilisateur d entrer le fichier json.
+- puis on crre les svg a partir de ce json 
+- apres on renvoie les fichiers créés 
+- modele de couleur : palette de couleur
+- ajouter de l intercatuvite dans les svg et pas dans les html
+
+
+--------- 17/04/2024
+- ordonnaecemet cote python
+- pour la vis2 : remplacer les carés rouges avec des bordures.
+- regler les marges --> minimiser les marges
+- stcoker la talle de la grille dans le json.
+- le ghost: afficher les infos pour toutes les cellules des autres cases quu se colorient.
+
+---------- 19/04/2024
+. mettre une coordonnee z pour dire que le rectangle créé sera en avant, stack level, z proprety
+. 
+
+

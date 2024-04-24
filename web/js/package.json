@@ -1,0 +1,14 @@
+{
+    "name": "pfa",
+    "version": "1.0.0",
+    "type": "module",
+    "engines": {
+      "node": ">=12.0.0"
+    },
+    "dependencies": {
+      "@svgdotjs/svg.js": "^3.2.0"
+    },
+    "scripts": {
+      "start": "node svgGenerator.js"
+    }
+  }
