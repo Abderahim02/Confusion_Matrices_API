@@ -9,16 +9,13 @@
 <body>
     <div class="container">
         <h1>Visualisateur de matrices de confusion</h1>
-        <nav>
-            <ul>
-                <!-- <li><a href="web/pages/vis1.html">Visualisation 1</a></li> -->
-                <li><a href="web/pages/all_vis.html">Visualisation 1</a></li>
-                <li><a href="web/pages/vis2.html">Visualisation 2</a></li>
-                <li><a href="web/pages/vis3.html">Visualisation 3</a></li>
-                <li><a href="web/pages/vis4.html">Visualisation 4</a></li>
-            </ul>
-        </nav>
     </div>
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script>
+        // Rediriger vers all_vis.html une fois que la page est chargée
+        window.onload = function() {
+            window.location.replace("web/pages/all_vis.html");
+        };
+    </script>
 </body>
 </html>

@@ -1,6 +1,6 @@
-Class,Malevolence,Teamwork,Citizen,Ship,Tabletop
-Malevolence,0.509,0.11,0.155,0.178,0.047
-Teamwork,0.242,0.283,0.246,0.063,0.167
-Citizen,0.132,0.049,0.685,0.069,0.065
-Ship,0.095,0.051,0.087,0.374,0.393
-Tabletop,0.067,0.069,0.063,0.257,0.543
+Class,Termination,Recount,Dangerous,Lifeline,Binoculars
+Termination,0.583,0.155,0.145,0.033,0.083
+Recount,0.218,0.331,0.228,0.096,0.126
+Dangerous,0.165,0.067,0.526,0.129,0.113
+Lifeline,0.02,0.042,0.134,0.659,0.146
+Binoculars,0.119,0.092,0.191,0.158,0.439

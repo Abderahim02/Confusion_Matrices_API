@@ -57,6 +57,7 @@ model_names = [
 classes_no = [5,10,20,50]
 models = [SVC,LogisticRegression,KNeighborsClassifier,DecisionTreeClassifier,AdaBoostClassifier,MLPClassifier]
 
+
 for no_classe in classes_no:
     random_class_names = random.sample(model_names, no_classe)
     

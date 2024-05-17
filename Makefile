@@ -10,9 +10,8 @@ json:
 	python3 src/csv_to_json.py res/classe_20 res/all_vis/json_20_models_6_classifiers
 	python3 src/csv_to_json.py res/classe_50 res/all_vis/json_50_models_6_classifiers
 
-
-clean:
-	rm -r res/*
-
 website:
 	python3 -m http.server 5555
+
+clean :
+	rm -rf res/all_vis

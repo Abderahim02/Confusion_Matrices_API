@@ -1,17 +1,31 @@
 import csv
 import matplotlib as matplotlib 
 import os
-
-
-# list alle files starting with prefix in the path directory
 import os
 
-def get_files_ending_with(suffix, directory):
+
+
+# list all files starting with prefix in the path directory
+def get_files_ending_with(suffix, directory, order=lambda x: x):
     files = []
     for filename in os.listdir(directory):
-        if filename.endswith(suffix):  # Check if the filename ends with the prefix
-            files.append(os.path.join(directory, filename))
-    return files
+        if filename.endswith(suffix):  
+            file_path = os.path.join(directory, filename)
+            with open(file_path, 'r') as file:
+                lines = file.readlines()[1:]
+                clean_lines = []
+                for line in lines:
+                    numbers = line.strip().split(",")[1:]
+                    numbers = [ float(elm) for elm in numbers]
+                    clean_lines.append(numbers)
+                files.append([filename ,clean_lines])
+
+    # Order the list of lists (filename and matrix)
+    ordered_files = order(files)
+    
+    # Extract only the file names from the ordered list
+    ordered_file_names = [os.path.join(directory, file[0]) for file in ordered_files]
+    return ordered_file_names
 
 
 #verify the structure of the .csv of one confusion matrix
